@@ -1,0 +1,6 @@
+{
+  "name": "DocuClean AI",
+  "description": "AI-Powered Document Cleaning - Instantly remove artifacts, correct formatting, and extract pristine text from any document.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

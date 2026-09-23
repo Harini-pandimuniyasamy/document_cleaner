@@ -1,0 +1,11 @@
+CONFIDENTIAL QUARTERLY AUDIT REPORT -- 2026
+
+DocuClean Verification Test
+
+Paragraph 1: Extra spaces between words.
+
+Paragraph 2: Line 
+break in the middle 
+of a sentence.
+
+Paragraph 3: Degraded OCR artifacts and misreadings.

@@ -1,0 +1,6 @@
+AUD1T   REP0RT  --  2O26
+
+Docurnent   analys1s   conf1rmed   mult1ple   errat1c   line-
+breaks and   excess1ve   spaces .
+
+Status:   Compl1ant
